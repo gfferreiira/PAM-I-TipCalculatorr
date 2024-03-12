@@ -1,0 +1,1 @@
+D:\WellGui\PM\PAM-I-TipCalculator\TipCalculator\TipCalculator\TipCalculator.csproj;x64
