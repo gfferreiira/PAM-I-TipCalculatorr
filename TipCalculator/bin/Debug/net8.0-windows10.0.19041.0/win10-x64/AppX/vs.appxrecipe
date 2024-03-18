@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\WellGui\PM\PAM-I-TipCalculator\TipCalculator\TipCalculator\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-12T01:45:07.606</Modified>
+      <Modified>2024-03-18T23:08:26.090</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\WellGui\PM\PAM-I-TipCalculator\TipCalculator\TipCalculator\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TipCalculator.dll">
       <PackagePath>TipCalculator.dll</PackagePath>
-      <Modified>2024-03-12T01:45:07.288</Modified>
+      <Modified>2024-03-18T23:08:25.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\WellGui\PM\PAM-I-TipCalculator\TipCalculator\TipCalculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TipCalculator.exe</PackagePath>
-      <Modified>2024-03-12T01:45:07.292</Modified>
+      <Modified>2024-03-18T23:08:25.262</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\WellGui\PM\PAM-I-TipCalculator\TipCalculator\TipCalculator\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
